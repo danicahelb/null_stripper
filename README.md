@@ -25,4 +25,4 @@ for f in files:
 		# for i, c in enumerate(data):
 		# 	if c== '\x00':
 		# 		print i, repr(data[i-30:i]) + " *NUL " + repr(data[i + 1:i + 31])
-    ```
+ ```
